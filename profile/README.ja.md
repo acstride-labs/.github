@@ -43,12 +43,12 @@ Codeforces 用ツールは拡張機能に同梱されています。CF Tool の�
 | プロジェクト | 役割 |
 | --- | --- |
 | [VS Code Extension](https://github.com/acstride-labs/codeforces-workbench) | 問題文、解答、ローカルテスト、コンテスト情報を扱う作業場。 |
-| [CF Tool](https://github.com/acstride-labs/acstride-cf-tool) | 問題の取得、コンテスト情報、提出操作を担う Codeforces クライアントと CLI。 |
+| [CF Tool](https://github.com/acstride-labs/codeforces-client) | 問題の取得、コンテスト情報、提出操作を担う Codeforces クライアントと CLI。 |
 | [Website](https://github.com/acstride-labs/acstride-web) | 製品情報、ダウンロード、入門ガイド。 |
 
 ## 質問・アイデア・不具合
 
 - **使い方の質問**：[Q&A](https://github.com/orgs/acstride-labs/discussions/categories/q-a) へ。
 - **改善のアイデア**：[Ideas](https://github.com/orgs/acstride-labs/discussions/categories/ideas) で共有してください。
-- **不具合の報告**：[拡張機能](https://github.com/acstride-labs/codeforces-workbench/issues)、[CF Tool](https://github.com/acstride-labs/acstride-cf-tool/issues)、[公式サイト](https://github.com/acstride-labs/acstride-web/issues)の該当リポジトリに Issue を作成してください。再現手順、環境とバージョン、機密情報を除いたログが役立ちます。
+- **不具合の報告**：[拡張機能](https://github.com/acstride-labs/codeforces-workbench/issues)、[CF Tool](https://github.com/acstride-labs/codeforces-client/issues)、[公式サイト](https://github.com/acstride-labs/acstride-web/issues)の該当リポジトリに Issue を作成してください。再現手順、環境とバージョン、機密情報を除いたログが役立ちます。
 - **更新情報**：[Announcements](https://github.com/orgs/acstride-labs/discussions/categories/announcements) と[更新履歴](https://github.com/acstride-labs/codeforces-workbench/blob/master/CHANGELOG.md)をご覧ください。

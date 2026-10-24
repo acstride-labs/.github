@@ -43,12 +43,12 @@ Codeforces 工具随插件打包，无需单独安装 CF Tool。运行代码需�
 | 项目 | 用途 |
 | --- | --- |
 | [VS Code Extension](https://github.com/acstride-labs/codeforces-workbench) | 做题工作区：题面、解答、本地测试与比赛信息。 |
-| [CF Tool](https://github.com/acstride-labs/acstride-cf-tool) | Codeforces 客户端与命令行工具，承载下载、比赛数据和提交等交互。 |
+| [CF Tool](https://github.com/acstride-labs/codeforces-client) | Codeforces 客户端与命令行工具，承载下载、比赛数据和提交等交互。 |
 | [Website](https://github.com/acstride-labs/acstride-web) | 产品介绍、下载入口和入门指南。 |
 
 ## 提问、建议与反馈
 
 - **使用问题**：前往 [Q&A](https://github.com/orgs/acstride-labs/discussions/categories/q-a)。
 - **改进想法**：在 [Ideas](https://github.com/orgs/acstride-labs/discussions/categories/ideas) 中交流。
-- **报告问题**：在[插件](https://github.com/acstride-labs/codeforces-workbench/issues)、[CF Tool](https://github.com/acstride-labs/acstride-cf-tool/issues) 或[官网](https://github.com/acstride-labs/acstride-web/issues)项目中创建 Issue，附上复现步骤、系统与版本，以及去除敏感信息后的日志。
+- **报告问题**：在[插件](https://github.com/acstride-labs/codeforces-workbench/issues)、[CF Tool](https://github.com/acstride-labs/codeforces-client/issues) 或[官网](https://github.com/acstride-labs/acstride-web/issues)项目中创建 Issue，附上复现步骤、系统与版本，以及去除敏感信息后的日志。
 - **关注更新**：查看[公告](https://github.com/orgs/acstride-labs/discussions/categories/announcements)和[插件更新日志](https://github.com/acstride-labs/codeforces-workbench/blob/master/CHANGELOG.md)。

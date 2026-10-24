@@ -43,12 +43,12 @@ Codeforces tools are bundled with the extension; no separate CF Tool installatio
 | Project | Role |
 | --- | --- |
 | [VS Code Extension](https://github.com/acstride-labs/codeforces-workbench) | The editing workspace: statements, solutions, local tests and contest information. |
-| [CF Tool](https://github.com/acstride-labs/acstride-cf-tool) | The Codeforces client and CLI behind downloads, contest data and submission operations. |
+| [CF Tool](https://github.com/acstride-labs/codeforces-client) | The Codeforces client and CLI behind downloads, contest data and submission operations. |
 | [Website](https://github.com/acstride-labs/acstride-web) | Product information, downloads and getting-started guides. |
 
 ## Questions, ideas or a bug?
 
 - **Ask a question:** visit [Q&A](https://github.com/orgs/acstride-labs/discussions/categories/q-a).
 - **Suggest an improvement:** share it in [Ideas](https://github.com/orgs/acstride-labs/discussions/categories/ideas).
-- **Report a bug:** open an issue in the [extension](https://github.com/acstride-labs/codeforces-workbench/issues), [CF Tool](https://github.com/acstride-labs/acstride-cf-tool/issues) or [website](https://github.com/acstride-labs/acstride-web/issues) repository. Include reproduction steps, your platform and version, and logs with secrets removed.
+- **Report a bug:** open an issue in the [extension](https://github.com/acstride-labs/codeforces-workbench/issues), [CF Tool](https://github.com/acstride-labs/codeforces-client/issues) or [website](https://github.com/acstride-labs/acstride-web/issues) repository. Include reproduction steps, your platform and version, and logs with secrets removed.
 - **Follow updates:** check [Announcements](https://github.com/orgs/acstride-labs/discussions/categories/announcements) and the [extension changelog](https://github.com/acstride-labs/codeforces-workbench/blob/master/CHANGELOG.md).

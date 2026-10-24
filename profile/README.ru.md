@@ -43,12 +43,12 @@ AC-Stride — набор инструментов для соревновани�
 | Проект | Назначение |
 | --- | --- |
 | [VS Code Extension](https://github.com/acstride-labs/codeforces-workbench) | Рабочее пространство с условиями, решениями, тестами и информацией о контестах. |
-| [CF Tool](https://github.com/acstride-labs/acstride-cf-tool) | Клиент Codeforces и CLI для загрузки задач, данных о соревнованиях и отправки решений. |
+| [CF Tool](https://github.com/acstride-labs/codeforces-client) | Клиент Codeforces и CLI для загрузки задач, данных о соревнованиях и отправки решений. |
 | [Website](https://github.com/acstride-labs/acstride-web) | Описание продукта, загрузки и руководства для начала работы. |
 
 ## Вопросы, идеи и ошибки
 
 - **Вопросы:** задавайте их в [Q&A](https://github.com/orgs/acstride-labs/discussions/categories/q-a).
 - **Предложения:** делитесь ими в [Ideas](https://github.com/orgs/acstride-labs/discussions/categories/ideas).
-- **Ошибки:** создайте issue в репозитории [расширения](https://github.com/acstride-labs/codeforces-workbench/issues), [CF Tool](https://github.com/acstride-labs/acstride-cf-tool/issues) или [сайта](https://github.com/acstride-labs/acstride-web/issues). Укажите шаги воспроизведения, платформу, версию и логи без секретных данных.
+- **Ошибки:** создайте issue в репозитории [расширения](https://github.com/acstride-labs/codeforces-workbench/issues), [CF Tool](https://github.com/acstride-labs/codeforces-client/issues) или [сайта](https://github.com/acstride-labs/acstride-web/issues). Укажите шаги воспроизведения, платформу, версию и логи без секретных данных.
 - **Обновления:** следите за [Announcements](https://github.com/orgs/acstride-labs/discussions/categories/announcements) и [историей изменений](https://github.com/acstride-labs/codeforces-workbench/blob/master/CHANGELOG.md).
