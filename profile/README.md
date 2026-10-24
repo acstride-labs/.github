@@ -6,7 +6,7 @@
 
 **Problem statements, code and tests. Together in VS Code.**
 
-[Website](https://acstride.com/en) · [Download](https://github.com/acstride-labs/acstride-vscode-extension/releases) · [Documentation](https://github.com/acstride-labs/acstride-vscode-extension#readme) · [Discussions](https://github.com/orgs/acstride-labs/discussions)
+[Website](https://acstride.com/en) · [Download](https://github.com/acstride-labs/codeforces-workbench/releases) · [Documentation](https://github.com/acstride-labs/codeforces-workbench#readme) · [Discussions](https://github.com/orgs/acstride-labs/discussions)
 
 **English** | [简体中文](https://github.com/acstride-labs/.github/blob/main/profile/README.zh-CN.md) | [日本語](https://github.com/acstride-labs/.github/blob/main/profile/README.ja.md) | [Русский](https://github.com/acstride-labs/.github/blob/main/profile/README.ru.md)
 
@@ -30,7 +30,7 @@ The interface is available in English, Simplified Chinese, Japanese and Russian.
 
 ## Get started
 
-1. **Install the extension.** Download the VSIX for your platform from [Releases](https://github.com/acstride-labs/acstride-vscode-extension/releases), then run **Extensions: Install from VSIX...** in VS Code.
+1. **Install the extension.** Download the VSIX for your platform from [Releases](https://github.com/acstride-labs/codeforces-workbench/releases), then run **Extensions: Install from VSIX...** in VS Code.
 2. **Check your tools.** Open a trusted local folder. In **AC-Stride Settings**, choose your default programming language and check its compiler or runtime.
 3. **Import a challenge.** Add a Codeforces contest or problem, or create a local problem. Open the statement, write your solution and run the tests.
 
@@ -42,7 +42,7 @@ Codeforces tools are bundled with the extension; no separate CF Tool installatio
 
 | Project | Role |
 | --- | --- |
-| [VS Code Extension](https://github.com/acstride-labs/acstride-vscode-extension) | The editing workspace: statements, solutions, local tests and contest information. |
+| [VS Code Extension](https://github.com/acstride-labs/codeforces-workbench) | The editing workspace: statements, solutions, local tests and contest information. |
 | [CF Tool](https://github.com/acstride-labs/acstride-cf-tool) | The Codeforces client and CLI behind downloads, contest data and submission operations. |
 | [Website](https://github.com/acstride-labs/acstride-web) | Product information, downloads and getting-started guides. |
 
@@ -50,5 +50,5 @@ Codeforces tools are bundled with the extension; no separate CF Tool installatio
 
 - **Ask a question:** visit [Q&A](https://github.com/orgs/acstride-labs/discussions/categories/q-a).
 - **Suggest an improvement:** share it in [Ideas](https://github.com/orgs/acstride-labs/discussions/categories/ideas).
-- **Report a bug:** open an issue in the [extension](https://github.com/acstride-labs/acstride-vscode-extension/issues), [CF Tool](https://github.com/acstride-labs/acstride-cf-tool/issues) or [website](https://github.com/acstride-labs/acstride-web/issues) repository. Include reproduction steps, your platform and version, and logs with secrets removed.
-- **Follow updates:** check [Announcements](https://github.com/orgs/acstride-labs/discussions/categories/announcements) and the [extension changelog](https://github.com/acstride-labs/acstride-vscode-extension/blob/master/CHANGELOG.md).
+- **Report a bug:** open an issue in the [extension](https://github.com/acstride-labs/codeforces-workbench/issues), [CF Tool](https://github.com/acstride-labs/acstride-cf-tool/issues) or [website](https://github.com/acstride-labs/acstride-web/issues) repository. Include reproduction steps, your platform and version, and logs with secrets removed.
+- **Follow updates:** check [Announcements](https://github.com/orgs/acstride-labs/discussions/categories/announcements) and the [extension changelog](https://github.com/acstride-labs/codeforces-workbench/blob/master/CHANGELOG.md).

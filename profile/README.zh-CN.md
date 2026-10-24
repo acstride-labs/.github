@@ -6,7 +6,7 @@
 
 **题面、代码、测试 都在 VS Code**
 
-[官网](https://acstride.com/zh-CN) · [下载](https://github.com/acstride-labs/acstride-vscode-extension/releases) · [使用文档](https://github.com/acstride-labs/acstride-vscode-extension#readme) · [讨论区](https://github.com/orgs/acstride-labs/discussions)
+[官网](https://acstride.com/zh-CN) · [下载](https://github.com/acstride-labs/codeforces-workbench/releases) · [使用文档](https://github.com/acstride-labs/codeforces-workbench#readme) · [讨论区](https://github.com/orgs/acstride-labs/discussions)
 
 [English](https://github.com/acstride-labs/.github/blob/main/profile/README.md) | **简体中文** | [日本語](https://github.com/acstride-labs/.github/blob/main/profile/README.ja.md) | [Русский](https://github.com/acstride-labs/.github/blob/main/profile/README.ru.md)
 
@@ -30,7 +30,7 @@ AC-Stride 是为 Codeforces 比赛与日常算法练习打造的工具集。把�
 
 ## 开始使用
 
-1. **安装插件**：从 [Releases](https://github.com/acstride-labs/acstride-vscode-extension/releases) 下载对应平台的 VSIX，在 VS Code 中运行 **Extensions: Install from VSIX...**。
+1. **安装插件**：从 [Releases](https://github.com/acstride-labs/codeforces-workbench/releases) 下载对应平台的 VSIX，在 VS Code 中运行 **Extensions: Install from VSIX...**。
 2. **检测环境**：打开可信的本地目录，在 **AC-Stride 设置**中选择默认编程语言，检查对应的编译器或运行环境。
 3. **开始解题**：导入比赛或单题，或创建本地题目。打开题面、编写代码、运行测试。
 
@@ -42,7 +42,7 @@ Codeforces 工具随插件打包，无需单独安装 CF Tool。运行代码需�
 
 | 项目 | 用途 |
 | --- | --- |
-| [VS Code Extension](https://github.com/acstride-labs/acstride-vscode-extension) | 做题工作区：题面、解答、本地测试与比赛信息。 |
+| [VS Code Extension](https://github.com/acstride-labs/codeforces-workbench) | 做题工作区：题面、解答、本地测试与比赛信息。 |
 | [CF Tool](https://github.com/acstride-labs/acstride-cf-tool) | Codeforces 客户端与命令行工具，承载下载、比赛数据和提交等交互。 |
 | [Website](https://github.com/acstride-labs/acstride-web) | 产品介绍、下载入口和入门指南。 |
 
@@ -50,5 +50,5 @@ Codeforces 工具随插件打包，无需单独安装 CF Tool。运行代码需�
 
 - **使用问题**：前往 [Q&A](https://github.com/orgs/acstride-labs/discussions/categories/q-a)。
 - **改进想法**：在 [Ideas](https://github.com/orgs/acstride-labs/discussions/categories/ideas) 中交流。
-- **报告问题**：在[插件](https://github.com/acstride-labs/acstride-vscode-extension/issues)、[CF Tool](https://github.com/acstride-labs/acstride-cf-tool/issues) 或[官网](https://github.com/acstride-labs/acstride-web/issues)项目中创建 Issue，附上复现步骤、系统与版本，以及去除敏感信息后的日志。
-- **关注更新**：查看[公告](https://github.com/orgs/acstride-labs/discussions/categories/announcements)和[插件更新日志](https://github.com/acstride-labs/acstride-vscode-extension/blob/master/CHANGELOG.md)。
+- **报告问题**：在[插件](https://github.com/acstride-labs/codeforces-workbench/issues)、[CF Tool](https://github.com/acstride-labs/acstride-cf-tool/issues) 或[官网](https://github.com/acstride-labs/acstride-web/issues)项目中创建 Issue，附上复现步骤、系统与版本，以及去除敏感信息后的日志。
+- **关注更新**：查看[公告](https://github.com/orgs/acstride-labs/discussions/categories/announcements)和[插件更新日志](https://github.com/acstride-labs/codeforces-workbench/blob/master/CHANGELOG.md)。

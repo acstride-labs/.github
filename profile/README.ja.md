@@ -6,7 +6,7 @@
 
 **問題文も、コードも、テストも。VS Code で。**
 
-[公式サイト](https://acstride.com/ja) · [ダウンロード](https://github.com/acstride-labs/acstride-vscode-extension/releases) · [ドキュメント](https://github.com/acstride-labs/acstride-vscode-extension#readme) · [ディスカッション](https://github.com/orgs/acstride-labs/discussions)
+[公式サイト](https://acstride.com/ja) · [ダウンロード](https://github.com/acstride-labs/codeforces-workbench/releases) · [ドキュメント](https://github.com/acstride-labs/codeforces-workbench#readme) · [ディスカッション](https://github.com/orgs/acstride-labs/discussions)
 
 [English](https://github.com/acstride-labs/.github/blob/main/profile/README.md) | [简体中文](https://github.com/acstride-labs/.github/blob/main/profile/README.zh-CN.md) | **日本語** | [Русский](https://github.com/acstride-labs/.github/blob/main/profile/README.ru.md)
 
@@ -30,7 +30,7 @@ AC-Stride は Codeforces のコンテストや日々の練習のためのツー�
 
 ## はじめ方
 
-1. **拡張機能をインストール**：[Releases](https://github.com/acstride-labs/acstride-vscode-extension/releases) から環境に合う VSIX をダウンロードし、VS Code で **Extensions: Install from VSIX...** を実行します。
+1. **拡張機能をインストール**：[Releases](https://github.com/acstride-labs/codeforces-workbench/releases) から環境に合う VSIX をダウンロードし、VS Code で **Extensions: Install from VSIX...** を実行します。
 2. **環境を確認**：信頼できるローカルフォルダーを開き、**AC-Stride 設定**で既定の言語とコンパイラ・実行環境を確認します。
 3. **問題に取り組む**：コンテストや問題を取り込むか、ローカル問題を作成します。問題文を開いてコードを書き、テストを実行してください。
 
@@ -42,7 +42,7 @@ Codeforces 用ツールは拡張機能に同梱されています。CF Tool の�
 
 | プロジェクト | 役割 |
 | --- | --- |
-| [VS Code Extension](https://github.com/acstride-labs/acstride-vscode-extension) | 問題文、解答、ローカルテスト、コンテスト情報を扱う作業場。 |
+| [VS Code Extension](https://github.com/acstride-labs/codeforces-workbench) | 問題文、解答、ローカルテスト、コンテスト情報を扱う作業場。 |
 | [CF Tool](https://github.com/acstride-labs/acstride-cf-tool) | 問題の取得、コンテスト情報、提出操作を担う Codeforces クライアントと CLI。 |
 | [Website](https://github.com/acstride-labs/acstride-web) | 製品情報、ダウンロード、入門ガイド。 |
 
@@ -50,5 +50,5 @@ Codeforces 用ツールは拡張機能に同梱されています。CF Tool の�
 
 - **使い方の質問**：[Q&A](https://github.com/orgs/acstride-labs/discussions/categories/q-a) へ。
 - **改善のアイデア**：[Ideas](https://github.com/orgs/acstride-labs/discussions/categories/ideas) で共有してください。
-- **不具合の報告**：[拡張機能](https://github.com/acstride-labs/acstride-vscode-extension/issues)、[CF Tool](https://github.com/acstride-labs/acstride-cf-tool/issues)、[公式サイト](https://github.com/acstride-labs/acstride-web/issues)の該当リポジトリに Issue を作成してください。再現手順、環境とバージョン、機密情報を除いたログが役立ちます。
-- **更新情報**：[Announcements](https://github.com/orgs/acstride-labs/discussions/categories/announcements) と[更新履歴](https://github.com/acstride-labs/acstride-vscode-extension/blob/master/CHANGELOG.md)をご覧ください。
+- **不具合の報告**：[拡張機能](https://github.com/acstride-labs/codeforces-workbench/issues)、[CF Tool](https://github.com/acstride-labs/acstride-cf-tool/issues)、[公式サイト](https://github.com/acstride-labs/acstride-web/issues)の該当リポジトリに Issue を作成してください。再現手順、環境とバージョン、機密情報を除いたログが役立ちます。
+- **更新情報**：[Announcements](https://github.com/orgs/acstride-labs/discussions/categories/announcements) と[更新履歴](https://github.com/acstride-labs/codeforces-workbench/blob/master/CHANGELOG.md)をご覧ください。

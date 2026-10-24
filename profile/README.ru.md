@@ -6,7 +6,7 @@
 
 **Условия, код и тесты. Вместе в VS Code.**
 
-[Сайт](https://acstride.com/ru) · [Скачать](https://github.com/acstride-labs/acstride-vscode-extension/releases) · [Документация](https://github.com/acstride-labs/acstride-vscode-extension#readme) · [Обсуждения](https://github.com/orgs/acstride-labs/discussions)
+[Сайт](https://acstride.com/ru) · [Скачать](https://github.com/acstride-labs/codeforces-workbench/releases) · [Документация](https://github.com/acstride-labs/codeforces-workbench#readme) · [Обсуждения](https://github.com/orgs/acstride-labs/discussions)
 
 [English](https://github.com/acstride-labs/.github/blob/main/profile/README.md) | [简体中文](https://github.com/acstride-labs/.github/blob/main/profile/README.zh-CN.md) | [日本語](https://github.com/acstride-labs/.github/blob/main/profile/README.ja.md) | **Русский**
 
@@ -30,7 +30,7 @@ AC-Stride — набор инструментов для соревновани�
 
 ## Начало работы
 
-1. **Установите расширение.** Скачайте VSIX для своей платформы из [Releases](https://github.com/acstride-labs/acstride-vscode-extension/releases) и выполните **Extensions: Install from VSIX...** в VS Code.
+1. **Установите расширение.** Скачайте VSIX для своей платформы из [Releases](https://github.com/acstride-labs/codeforces-workbench/releases) и выполните **Extensions: Install from VSIX...** в VS Code.
 2. **Проверьте инструменты.** Откройте доверенную локальную папку. В **настройках AC-Stride** выберите язык по умолчанию и проверьте компилятор или среду выполнения.
 3. **Выберите задачу.** Импортируйте контест или задачу Codeforces либо создайте локальную. Откройте условие, напишите решение и запустите тесты.
 
@@ -42,7 +42,7 @@ AC-Stride — набор инструментов для соревновани�
 
 | Проект | Назначение |
 | --- | --- |
-| [VS Code Extension](https://github.com/acstride-labs/acstride-vscode-extension) | Рабочее пространство с условиями, решениями, тестами и информацией о контестах. |
+| [VS Code Extension](https://github.com/acstride-labs/codeforces-workbench) | Рабочее пространство с условиями, решениями, тестами и информацией о контестах. |
 | [CF Tool](https://github.com/acstride-labs/acstride-cf-tool) | Клиент Codeforces и CLI для загрузки задач, данных о соревнованиях и отправки решений. |
 | [Website](https://github.com/acstride-labs/acstride-web) | Описание продукта, загрузки и руководства для начала работы. |
 
@@ -50,5 +50,5 @@ AC-Stride — набор инструментов для соревновани�
 
 - **Вопросы:** задавайте их в [Q&A](https://github.com/orgs/acstride-labs/discussions/categories/q-a).
 - **Предложения:** делитесь ими в [Ideas](https://github.com/orgs/acstride-labs/discussions/categories/ideas).
-- **Ошибки:** создайте issue в репозитории [расширения](https://github.com/acstride-labs/acstride-vscode-extension/issues), [CF Tool](https://github.com/acstride-labs/acstride-cf-tool/issues) или [сайта](https://github.com/acstride-labs/acstride-web/issues). Укажите шаги воспроизведения, платформу, версию и логи без секретных данных.
-- **Обновления:** следите за [Announcements](https://github.com/orgs/acstride-labs/discussions/categories/announcements) и [историей изменений](https://github.com/acstride-labs/acstride-vscode-extension/blob/master/CHANGELOG.md).
+- **Ошибки:** создайте issue в репозитории [расширения](https://github.com/acstride-labs/codeforces-workbench/issues), [CF Tool](https://github.com/acstride-labs/acstride-cf-tool/issues) или [сайта](https://github.com/acstride-labs/acstride-web/issues). Укажите шаги воспроизведения, платформу, версию и логи без секретных данных.
+- **Обновления:** следите за [Announcements](https://github.com/orgs/acstride-labs/discussions/categories/announcements) и [историей изменений](https://github.com/acstride-labs/codeforces-workbench/blob/master/CHANGELOG.md).
