@@ -8,7 +8,7 @@
 
 [Website](https://acstride.com/en) · [Download](https://github.com/acstride-labs/acstride-vscode-extension/releases) · [Documentation](https://github.com/acstride-labs/acstride-vscode-extension#readme) · [Discussions](https://github.com/orgs/acstride-labs/discussions)
 
-**English** | [Simplified Chinese](https://github.com/acstride-labs/.github/blob/main/profile/README.zh-CN.md) | [Japanese](https://github.com/acstride-labs/.github/blob/main/profile/README.ja.md) | [Russian](https://github.com/acstride-labs/.github/blob/main/profile/README.ru.md)
+**English** | [简体中文](https://github.com/acstride-labs/.github/blob/main/profile/README.zh-CN.md) | [日本語](https://github.com/acstride-labs/.github/blob/main/profile/README.ja.md) | [Русский](https://github.com/acstride-labs/.github/blob/main/profile/README.ru.md)
 
 <img src="https://raw.githubusercontent.com/acstride-labs/.github/main/profile/assets/workflow.svg" width="100%" alt="An illustrated overview of the AC-Stride workflow: import a challenge, read the statement, write code and check the result">
 
