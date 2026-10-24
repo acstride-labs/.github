@@ -1,43 +1,54 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/acstride-labs/.github/main/profile/assets/logo.svg" width="100" height="100" alt="AC-Stride logo">
+
 # AC-Stride
 
-## Competitive programming, inside VS Code
+**Problem statements, code and tests. Together in VS Code.**
 
-AC-Stride brings Codeforces statements, solutions and local tests into one workspace. Import a round or a single problem, write in your preferred language, and check your work without leaving your editor.
+[Website](https://acstride.com/en) · [Download](https://github.com/acstride-labs/acstride-vscode-extension/releases) · [Documentation](https://github.com/acstride-labs/acstride-vscode-extension#readme) · [Discussions](https://github.com/orgs/acstride-labs/discussions)
 
-- C++, Python, Java and Kotlin, with separate templates and local toolchain settings.
-- Automatic statement and sample downloads, custom tests, output differences and execution controls.
-- Submission history, verdicts and standings; optional confirmed submission through CF Tool.
-- Optional AI statement translation through your own model provider, with configurable prompts, target languages and a local LRU request cache.
+**English** | [Simplified Chinese](https://github.com/acstride-labs/.github/blob/main/profile/README.zh-CN.md) | [Japanese](https://github.com/acstride-labs/.github/blob/main/profile/README.ja.md) | [Russian](https://github.com/acstride-labs/.github/blob/main/profile/README.ru.md)
 
-Codeforces tools ship with the extension. Install the compiler or runtime for your solution language separately. Login and automatic submission are experimental and may be blocked by Codeforces site verification; public downloads and local practice do not require login.
+<img src="https://raw.githubusercontent.com/acstride-labs/.github/main/profile/assets/workflow.svg" width="100%" alt="An illustrated overview of the AC-Stride workflow: import a challenge, read the statement, write code and check the result">
 
-[Website](https://acstride.com/en) · [Get the extension](https://github.com/acstride-labs/acstride-vscode-extension/releases) · [Documentation](https://github.com/acstride-labs/acstride-vscode-extension#readme)
+</div>
 
----
+## Your contest workspace
 
-### 题面、代码、测试 都在 VS Code
+AC-Stride is a collection of tools for Codeforces contests and everyday competitive programming practice. Bring problems into your editor, work in your preferred language, and test your solution alongside the statement.
 
-为算法竞赛与日常练习打造的工具集。从导入 Codeforces 比赛和题目，到编写解答、运行测试、查看提交结果，让做题流程留在熟悉的编辑器里。
-
-[官网](https://acstride.com/zh-CN) · [下载插件](https://github.com/acstride-labs/acstride-vscode-extension/releases) · [使用文档](https://github.com/acstride-labs/acstride-vscode-extension#readme)
-
-## 在一个工作区里解题
-
-- **比赛与练习**：导入整场 Codeforces 比赛、单道题目，或创建本地练习；自动下载题面和样例。
-- **多编程语言**：支持 C++、Python、Java 和 Kotlin，提供独立的代码模板、环境检测与本地运行配置。
-- **测试与反馈**：运行样例和自定义用例，查看标准输出、错误信息与输出差异，支持超时控制和取消运行。
-- **比赛动态**：查看提交记录、判题结果与排名；提供复制代码并前往官网提交，以及需要登录和二次确认的一键提交。
-- **可选 AI 辅助**：连接自己的模型服务，按需或自动翻译题面，配置目标语言、Prompt 与本地 LRU 请求缓存。
-- **多语言界面**：支持简体中文、English、Русский 和日本語。
-
-Codeforces 工具随插件打包，无需另行安装 CF Tool。运行解答需要准备对应语言的编译器或运行环境。登录与自动提交属于实验功能，可能受 Codeforces 网页验证限制；未登录也可以下载公开题目和进行本地练习。
-
-## 项目
-
-| 项目 | 用途 |
+| | What you can do |
 | --- | --- |
-| [VS Code Extension](https://github.com/acstride-labs/acstride-vscode-extension) | 做题工作区：题面、代码、测试与比赛信息 |
-| [CF Tool](https://github.com/acstride-labs/acstride-cf-tool) | Codeforces API 客户端与命令行工具，承载与 Codeforces 交互的能力 |
-| [Website](https://github.com/acstride-labs/acstride-web) | 产品介绍、下载入口与使用指南 |
+| **Import and read** | Import a contest or a single Codeforces problem, or create a local practice problem. Statements and samples download automatically. |
+| **Write in your language** | Use C++, Python, Java or Kotlin with independent source files, starter templates and environment checks. Keep your usual VS Code extensions and shortcuts. |
+| **Test and compare** | Run official samples and custom cases, inspect stdout and stderr, and find the first output difference. Stop a run or apply a time limit. |
+| **Follow the round** | View submission history, official verdicts and standings. Copy code and open the official submission page, or use confirmed one-click submission after signing in. |
+| **Translate when needed** | Connect your own AI provider for on-demand or automatic statement translation. Choose the target language and prompt, with optional local LRU caching. |
 
-发现问题或有改进建议，欢迎在对应项目的 Issues 中反馈。复现步骤、系统与插件版本、去除敏感信息后的日志，都能帮助我们定位问题。
+The interface is available in English, Simplified Chinese, Japanese and Russian.
+
+## Get started
+
+1. **Install the extension.** Download the VSIX for your platform from [Releases](https://github.com/acstride-labs/acstride-vscode-extension/releases), then run **Extensions: Install from VSIX...** in VS Code.
+2. **Check your tools.** Open a trusted local folder. In **AC-Stride Settings**, choose your default programming language and check its compiler or runtime.
+3. **Import a challenge.** Add a Codeforces contest or problem, or create a local problem. Open the statement, write your solution and run the tests.
+
+Codeforces tools are bundled with the extension; no separate CF Tool installation is needed. Install the compiler or runtime for your solution language separately. Java needs a JDK; Kotlin also needs the Kotlin compiler.
+
+> **Preview:** Login and automatic submission are experimental and may be blocked by Codeforces site verification. Public problem downloads and local practice work without login. Automatic submission always requires confirmation.
+
+## The projects
+
+| Project | Role |
+| --- | --- |
+| [VS Code Extension](https://github.com/acstride-labs/acstride-vscode-extension) | The editing workspace: statements, solutions, local tests and contest information. |
+| [CF Tool](https://github.com/acstride-labs/acstride-cf-tool) | The Codeforces client and CLI behind downloads, contest data and submission operations. |
+| [Website](https://github.com/acstride-labs/acstride-web) | Product information, downloads and getting-started guides. |
+
+## Questions, ideas or a bug?
+
+- **Ask a question:** visit [Q&A](https://github.com/orgs/acstride-labs/discussions/categories/q-a).
+- **Suggest an improvement:** share it in [Ideas](https://github.com/orgs/acstride-labs/discussions/categories/ideas).
+- **Report a bug:** open an issue in the [extension](https://github.com/acstride-labs/acstride-vscode-extension/issues), [CF Tool](https://github.com/acstride-labs/acstride-cf-tool/issues) or [website](https://github.com/acstride-labs/acstride-web/issues) repository. Include reproduction steps, your platform and version, and logs with secrets removed.
+- **Follow updates:** check [Announcements](https://github.com/orgs/acstride-labs/discussions/categories/announcements) and the [extension changelog](https://github.com/acstride-labs/acstride-vscode-extension/blob/master/CHANGELOG.md).

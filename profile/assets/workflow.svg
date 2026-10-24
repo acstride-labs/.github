@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="570" viewBox="0 0 1280 570" fill="none">
+<title>AC-Stride workflow: import, read, code, test</title>
+<desc>An illustrated overview of competitive programming inside VS Code.</desc>
+<defs><linearGradient id="bg" x2="1280" y2="570" gradientUnits="userSpaceOnUse"><stop stop-color="#101E2D"/><stop offset="1" stop-color="#0E302C"/></linearGradient><linearGradient id="accent"><stop stop-color="#00C99A"/><stop offset="1" stop-color="#4088FF"/></linearGradient></defs>
+<rect width="1280" height="570" rx="24" fill="url(#bg)"/>
+<circle cx="1160" cy="50" r="240" fill="#00C99A" opacity=".035"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="64" y="70" fill="#74E3C6" font-size="15" letter-spacing="3">COMPETITIVE PROGRAMMING IN VS CODE</text>
+<text x="64" y="143" fill="#F4F8FC" font-size="58" font-weight="700">Read. Code. Test.</text>
+<text x="66" y="184" fill="#A7BACD" font-size="22">From the problem statement to your next submission, in one workspace.</text>
+<rect x="64" y="224" width="1152" height="3" rx="1.5" fill="url(#accent)"/>
+<g stroke="#294453" fill="#142733"><rect x="64" y="270" width="264" height="216" rx="16"/><rect x="360" y="270" width="264" height="216" rx="16"/><rect x="656" y="270" width="264" height="216" rx="16"/><rect x="952" y="270" width="264" height="216" rx="16"/></g>
+<g fill="#74E3C6" font-size="14" letter-spacing="2"><text x="88" y="306">01 / IMPORT</text><text x="384" y="306">02 / READ</text><text x="680" y="306">03 / CODE</text><text x="976" y="306">04 / CHECK</text></g>
+<g fill="#F4F8FC" font-size="24" font-weight="700"><text x="88" y="352">Pick a challenge</text><text x="384" y="352">Understand it</text><text x="680" y="352">Make it work</text><text x="976" y="352">See the result</text></g>
+<g fill="#A7BACD" font-size="17"><text x="88" y="391">Codeforces contests</text><text x="88" y="418">Single problems</text><text x="88" y="445">Local practice</text><text x="384" y="391">Statements and samples</text><text x="384" y="418">Math and images</text><text x="384" y="445">Optional AI translation</text><text x="680" y="391">Multiple languages</text><text x="680" y="418">Your code templates</text><text x="680" y="445">Your editor and tools</text><text x="976" y="391">Custom tests and diffs</text><text x="976" y="418">Verdicts and standings</text><text x="976" y="445">Confirmed submission</text></g>
+<g stroke="#5D8D99" stroke-width="2"><path d="M336 378h16m-6-6 6 6-6 6M632 378h16m-6-6 6 6-6 6M928 378h16m-6-6 6 6-6 6"/></g>
+<text x="64" y="536" fill="#A7BACD" font-size="15">AC-Stride</text><text x="1216" y="536" text-anchor="end" fill="#74E3C6" font-size="15">acstride.com</text>
+</g></svg>
